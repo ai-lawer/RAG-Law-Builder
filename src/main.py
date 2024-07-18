@@ -1,3 +1,4 @@
+from ai_chatbot import ai_chatbot
 from pdf_converter import convert_folder_pdfs_to_txt
 from create_vector_database import create_vector_database
 from query_db import query_db
@@ -34,8 +35,15 @@ def main():
     # creating a vector database
     # create_vector_database()
 
+    question = input("Enter your legal question\n")
+
     # query the vector db
-    query_db("What are the procedures for considering an objection to a tax dispute?")
+    content = query_db(question)
+
+    ai_chatbot(
+        question,
+        content,
+    )
 
 
 main()

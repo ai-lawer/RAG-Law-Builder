@@ -7,7 +7,7 @@ def query_db(query):
         persist_directory="../chroma_openai",
         embedding_function=get_embedding_function(),
     )
-    result = db.similarity_search_with_relevance_scores(query, k=5)
+    result = db.similarity_search_with_relevance_scores(query, k=3)
 
     content = ""
 
