@@ -1,1 +1,8 @@
+# ENV Variables
 .env
+
+# Datasets
+datasets
+
+# Vector DB
+chroma_db

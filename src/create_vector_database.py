@@ -22,7 +22,7 @@ def create_chunks():
 
 def create_chroma(chunks):
     db = Chroma(
-        persist_directory="chroma_openai", embedding_function=get_embedding_function()
+        persist_directory="../chroma_db", embedding_function=get_embedding_function()
     )
 
     db.add_texts(chunks)

@@ -7,13 +7,14 @@ def txt_to_csv(folder_path, isAr):
     file_list = os.listdir(folder_path)
 
     for file_name in file_list:
-        file_path = os.path.join(folder_path, file_name)
-        process_txts_in_folder(file_path, isAr)
+        if not file_name.startswith('.'):
+            file_path = os.path.join(folder_path, file_name)
+            process_txts_in_folder(file_path, isAr)
 
 
 def process_txts_in_folder(folder_path, isAr):
     csv_file = (
-        get_dataset_file("ar_dataset.csv") if isAr else get_dataset_file("dataset.csv")
+        get_dataset_file("../datasets/ar_dataset.csv") if isAr else get_dataset_file("../datasets/dataset.csv")
     )
 
     for file_name in os.listdir(folder_path):

@@ -1,0 +1,825 @@
+Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  1 
+ Cabinet Resolution No. (28) of 2023  
+on the Executive Regulations of Federal Decree -Law No. (46) of 2021  
+on Electronic Transactions and Trust Services  
+ 
+The Cabinet,  
+Having reviewed:  
+− The Constitution;  
+− Federal Decree -Law No. (1) of 1972, on the Competences  of Ministries and the 
+Powers of Ministers, as amended;  
+− Feder al Decree -Law No. (14) of 2021, Establishing  the Federal Authority for Identity, 
+Citizenship, Customs and Port Security ;  
+− Federal Decree -Law No. (45) of 2021, on the Protection of Personal Data ;  
+− Federal Decree -Law No. (46) of 2021, on Electronic Transactions and Trus t Services;  
+− Feder al Decree -Law No. (42) of 2022 , Enacting the Civil Procedure  Code ; and  
+− Based on the Proposa l submitted by th e Board Chairman of the Tel ecommunications 
+and Digital Government Regulatory Authority , and the Cabinet approval thereof,   
+Hereby  resolves as follows:  
+ 
+Article (1)  
+Definitions  
+The definitions set forth in Federal Decree -Law No. (46) of  2021, referred to hereinabove, 
+shall be  applied to this Resolution;  otherwise, the following words and expressions shall 
+bear the meanings assigned thereto respectively, unless the context requires otherwise :  
+Decree -Law  
+ 
+ : Federal Decree -Law No. (46) of 2021, on Electronic 
+Transactions and Trust Services . Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  2 
+ Competent 
+Authority  : The authority that issues the Trade License.  
+Termination Plan  : A document that sets out the procedures related to the 
+Licensee’s plan and preparedness to terminate the  services 
+outlined in the License, pursuant to the Decree -Law and this 
+Resolution and the resolutions issued by the TDRA in 
+implementation of both of which, and the requirements of the 
+Competent Authorities.  
+Service Practice 
+Statement   : A statement of p ractices used by the Trust Service Provider and 
+the Qualified Trust Service Provider in the management and 
+operation of services.  
+Service Policy  : A specific set of rules setting out policies, procedures, technical 
+data, roles and responsibilities related to the management and 
+operation of Trust Services and Qualified Trust Services.  
+Subscriber  : A Person that enters into a contract with the Trust  Service 
+Provider or with the Qualified Trust Service Provider to benefit 
+from Trust Services or Qualified Trust Services provided by 
+such provider.  
+Status of 
+Qualified Service 
+Provider  : The status granted or withdrawn by the TDRA, as per the term 
+of qu alification and as listed in the UAE Trust List, which 
+confirms that the Qualified Trust Service Provider that provides 
+such service is qualified for providing the same.  
+Encryption  : A process intended to protect the confidentiality of data and 
+information by converting data from a readable and  
+understandable format into a non -understandable format in 
+the form of codes, characters and figures.    
+  
+  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  3 
+ Article (2)  
+License Application  
+1. The TDRA shall publish necessary information  on all procedures, application form s 
+and infor mation requ ired for the License purposes , on the website o f the TDRA or by 
+any means it deems appropriate.  
+2. The License application shall include all information required by the TDRA , and such 
+information shall b e provided by methods and means determined by the TDRA.  
+3. The License applicant shall abide by all procedures and shall use application forms 
+determined by the TDRA.  
+4. The TDRA shall determine documents and data to be incl uded in the Li cense 
+application, including  the following documents and data:  
+a. A copy of the License issue d by the Competent Authority or other documents 
+that authorize  the Licensee to carry out the business activities in the State;  
+b. Description of com mercial activities unrelated to Trust Services and Qualified 
+Trust Services authorized to be practiced by the License applicant;  
+c. Details of the License applicant’ s business office in the State;  
+d. A copy of the License applicant’s action plan showing the na ture and strategy  
+of business, objectives, mar keting plans and the service provision plan;  
+e. Type  of the trade license  and partners' equity interests , if any, and the License 
+applicant’s organizational structure ;  
+f. Details of institutional and operational capa cities of the License applicant;  
+g. A report on the Compliance A ssessment  for a period not exceeding one month;  
+h. A copy of the documents submi tted during the process of the Compliance 
+Assessment  referred to in Subclause (g) above;  
+i. A service Termination Plan, pursuant to the provisions of article (18) 
+hereunder;  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  4 
+ j. A financial report for the last fiscal year to be drawn up by an auditor 
+accredited in the State, confirming the availability of financial resources 
+equivalent to (AED 5,000,000) five million dirha ms;  
+k. Providing a bank guarantee  or security as identified by the TDRA, and which  
+shall  be automatically r enewed upon the license renewal; and  
+l. A proof of  payment of the License application fees , as per the means set by the 
+TDRA.  
+ 
+Article (3)  
+License Application  Examination Procedures   
+1. The TDRA shall complete and examine the L icense application and shall verify the 
+information and documents submitted, within a month following the completion date 
+of the application . In cases that require more time for review and verification , the 
+License applicant shall be notified of the further updated period . 
+2. In the event of any justifiable alterations of the data  or documents submitted in the 
+License application, or where t he Li cense applicant desires to cancel the License 
+application, the  latter shall so notify the TDRA  and shall bear the relevant fees  and 
+costs.  
+3. The TDRA may relieve the License applicant from certain licensing requirements set 
+out in this Resolution and the resolutions issued by the TDRA.  
+ 
+Article (4)  
+TDRA  Decision After the License Application  Examination  
+1. The TDRA shall issue its decision  after reviewing and examining the License 
+application  as follows:  
+a. Approving  the License application for providing Trust Services  or specific 
+Qualified  Trust Services if the TDRA is convinced that the License applicant has 
+fulfilled the requirements  set forth in the Decree -Law and this Resolution and Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  5 
+ the resolutions issued by the TDRA in implementation of both of which , and 
+the requirements of the Competent Authorities.  
+b. Rejecting  the License application for providing Trust Services or sp ecific 
+Qualified Trust Services if the TDRA is convinced that the License applicant has  
+not fulfilled the requirements set forth in the Decree -Law and this Resolution 
+and the resolutions issued by the TDRA in implementation of both of which , 
+and the requir ements of the Competent Authorities.  
+2. Where the TDRA appr oves the License application for providing Trust Services or 
+Qualified  Trust Services set out in the application:  
+a. The TDRA shall issue a L icense authorizing  the applicant to provide the 
+approved Trust Services or Qualified Trust Services subject to payment of the 
+License issuance fees; and  
+b. The TDRA shall update the UAE Trust List according to the Licens e decision on 
+the basis of each Trust Ser vice or Qualified Trust Service  set out in the License.  
+3. If the License  application for providing Qualified Trust Services set out in the 
+applicatio n is approved , the TDRA shall grant the License applicant a License 
+authorizing the same to provide such services, s hall grant the License applicant the 
+Status  of Qualified  Service Provider, and shall update the UAE Trust List accordingly  
+on the basis of each Qualified Trust Service set out in the License.  
+ 
+Article (5)  
+Power to Issue the License  
+The TDRA shall issue the License  decision following the approval of the Chairman or his 
+delegate.  
+Article (6)  
+Term of the License  
+The term of the License shall be two years, comm encing from the date of issuing the 
+License.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  6 
+ Article (7)  
+License Renewal Application  
+1. At least (3) mo nths prior to the expiry of the License  term, the Licensee shall fulfill  all 
+requirements for the License renewal, subject to the following:  
+a. The License renewal application shall include all det ails and documents 
+mentioned in Clause (4) of article (2) above, along with any other details or 
+documents identified by the TDRA.  
+b. The License renewal appli cation shall include a proof of payment of the 
+License renewal application fees, as per the method and means determined by 
+the TDRA.  
+ 
+Article (8)  
+Failure to  Timely Renew the  License   
+A Licensee , whose License term expires without getting the License renewed (30) thirty 
+days prior to the License expiry date , shall be deemed in breach, and shall be sanctioned 
+according to the administrative sanctions applicable in that respect.  
+ 
+Article (9)  
+License Renewal Application  Examination  Procedures    
+The TDRA shall review and verify the data and documents submitted within the License 
+renewal application, as per the procedures set out in article (3) above.  
+ 
+ 
+ 
+ 
+ 
+ Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  7 
+ Article (10)  
+Decision on License Renewal   
+The TDRA shall issue its decision after reviewing and examining the License renewal 
+application as follows:  
+1. Approving the License renewal application if the TDRA is convinced that the License 
+renewal applicant has fulfilled the requirements set forth in the Decree -Law and this 
+Resolution and the resolutions issued by the TDRA in implementation of both of 
+which , and the requirements of the Competent Authorities, and , accordingly , the 
+TDRA shall:  
+a. Issue  a License authorizing the applicant to provide the approved Trust 
+Services or Qualified Trust Services after paying the License issuance fees; and  
+b. Update the UAE Trust List according to the License decision on the basis of 
+each Trust Se rvice or Qualified Trust Service  set out in the License application.   
+2. Rejecting  the License renewal  application  where  the TDRA is convinced that the 
+License renewal applicant has not fulfilled the requirements set forth in the Decree -
+Law and this Resoluti on and the resolutions issued by the TDRA in implementation of 
+both of which , and the requirements of the Competent Authorities,  as the case may 
+be. In this case, TDRA may take any of the following actions:  
+a. To set a time limit to address the non -compliance, then the rejection decision  
+shall be reconsidered or finally approved; or  
+b. To apply the administrative sanctions applicable i n this regard.   
+ 
+Article (11)  
+Grievance  Against TDRA’s Decision  
+The  License  applicant  or the License renewal applicant whos e application is rejected may 
+submit a new application, as per the procedures applicable thereto, or file a grievance 
+within (14) days against the TDRA’s rejection decision.    
+ Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  8 
+ Article (12)  
+Suspension or Revocation of the License  
+1. If the License of Trust Service Providers or Qualified Trust Service Provider s is 
+suspended , the L icensee shall promptly cease to list any new Subscribers to services 
+set out in the License, and shall keep providing the services to Subscribers existing 
+before the effective date of the suspension decision.  
+2. If the License of Trust Service Providers or Qualified Trust Service Provider s is revoked , 
+such provi der shall be served with a notice to activate the Termination Plan  for all  or 
+any of the services set out  in the License,  along with  adjusting the UAE Trust List when 
+completing the implementation  of the Termination Plan.  
+3. If a Qualified Service Pro vider’s License is revoked, the Status of Qualified  Service 
+Provider for delicensed services shall be withdrawn.   
+4. In all cases, upon the expir y or revocation of the License  term , the Licensee may 
+directly suspend Trust Servi ces or Qualified Trust Services only acc ording to the 
+procedures set by the TDRA , and the Licensee shall be exempted from the obligat ions 
+set out in the Decree -Law and this Resolution and the resolutions issued by the TDRA 
+in implementation of both of which , and the requirements of the Competent 
+Authorities , as the case may be, only af ter obtaining the prior approval of the TDRA.  
+5. The application of the procedures set out in this Article shall not preclude the 
+application of the administrative sanctions or the penalties set forth in the Decree -
+Law.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  9 
+ Article (13)  
+Cases of Amendment to the License  
+1. The Licensee shall  notify the TDRA within one week in case of any amendments to  or 
+changes in the information submitted in the  License or renewal application or the 
+documents submitted for obtaining the compliance report.  
+2. The L icensee shall be required to obtain the prior approval of the TDRA in cases of 
+adjustment or change of data an d information that had been provided to  TDRA , as 
+determined by the TDRA, including the following data and information:  
+a. Details of the e stablishment and ownership and the business office of the Licensee 
+in the State;  
+b. Technical, administrative and financial capacity for the management  and 
+operation of the services set out in the License;  
+c. Any  change in the procedures of verifying the identity of Trust Services or 
+Qualified Trust Services applicants and Subscribers;  
+d. Any  change to information systems of Trust Services or Qualified Trust Services; 
+and  
+e. Any amendments to the Termination Plan.  
+3. Changes  introduced to the License, Trust Services, Qualified Trust Services or the 
+Status  of Qualified Service Prov ider shall be listed in the UAE Trust List on a regular 
+basis if the same is required by the  change,  at the discretion of the TDRA.  
+4. The TDRA  shal l identify means for su bmitting and processing amendment 
+applications under  resolutions issued by the TDRA.  
+ 
+Article (14)  
+Costs of License Suspension or Revocation  
+The  License renewal applicant or  the Licensee , whose Status of Qualified Service Provider 
+is withdrawn or whose  License is suspended or revoked, shall bear all expenses related to 
+the Compliance Assessment reports.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  10 
+ Article (15)  
+Obligations of the Licensee  
+The Licensee shall satisfy the following  requirements :   
+1. Details and documents submitted by  the Licensee to the TDRA must be up -to-date 
+and accurat e throughout the License period.   
+2. Acting in a fair and impartial  way in respect of all its activities, transactions a nd service 
+offer and marketing, without causing monopoly or an impact on the sector 
+competi tiveness  or S ubscribers, including the Licensee’ s obligation not to publish 
+inco rrect or inaccurate information or preclude the mechanisms of executing the 
+Decree -Law, the present Resolution,  resolutions issued by the TDRA  in pursuance of  
+the Decree -Law and the present Resolution and the requirement s of the Competent 
+Authorities.  
+3. Assuming the liability  for damage deliberately or negligently afflicting any Person  due 
+to the Licensee’s failure to fulfil  the obligations prescribed under the Decree -Law and 
+this Resolution and the resolutions issued by the TDRA in implementation of both of 
+which  and the requirement s of the Competent Authorities.  
+4. Informing Subscribers of Trust Services  or Qualified Trust Services provided by the 
+Licensee of a ny restrictions on the use of such services before such services are 
+provided to Subscribers, and that the Licensee will not assum e any liability for damage 
+caused by using such services should such  restrictions be byp assed.  
+5. Adopting  adequate  polici es relied on the assessment of risks threatening the services 
+provided by the Li censee, along with taking adequate  necessary technical and 
+organizational  measures for the management of legal, administrative, security and 
+operational risks and other direct and indirect risks, without  being prejudicial to 
+security  and reliability levels and to the extent of being  adequate to the degree of 
+severi ty. In partic ular, due diligence and necessary measures  shall be taken for:  
+a. Procedures  of registration and  verification of Subscribers and activation of 
+services to them;  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  11 
+ b. Procedural and sanction controls;  
+c. Management and  implementation of services;  
+d. Preventing and minimizing the impact of securi ty incidents and informing the 
+Competent A uthorities, as the case may be, Subscribers and qualified entities  
+of the negative impacts of any of such incidents if occurred; and   
+e. Ensuring  the protection of cybersecurity of information systems of the 
+Licensee, as per the approved cybersecurity  policies.  
+6. Taking all necessary technical and organizational measures to comp ly with the federal 
+laws and regulations governing the protectio n of data or personal data, so as to ensure 
+the prot ection and preservation of the Subscriber's personal data and prevent any 
+accessibility  to and disclosur e of such data without obtaining the Subscriber’s  consent 
+and within the limits nece ssary to provid e the service to the same.  
+7. Promptly notifying  the TDRA and the Subscribers in the following cases:  
+a. Exposure of the Licensee’s information systems to any risk affecting the 
+integrity and safety of the services provided;  
+b. Exposure of information or documents of the S ubscribers to unauthorized  
+disclosure; or  
+c. Hacking the security of retained personal or non -personal information or data 
+or lacking the validity and integrity  thereof , in a manner affecting the services 
+provided.  
+8. Informing  the S ubscribers  and the Relying Parties in  a clear and accessible  way before 
+starting to provide Trust Servi ces or Qualified Trust Services of all terms and 
+conditions related  to the use of such services, including  any restrictions on such  use, 
+obligations and responsibilities to be assumed by the Subscribers and the Relying 
+Parties  when using such services, as well as  seeking the consent of the Subscribers and 
+the Relying Parties before starting to provide the services to them.  
+9. Notifying the party relying on T rust Servi ces or Qualified Trust Services of levels of 
+security and trust of the used Digital Identity  as part of the service provision.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  12 
+ 10. Ensuring the compliance with the requirements, s tandards and controls of the security 
+and trust level technology defined in the Electronic Identification System approved by 
+the TDRA .  
+11. Preparing a constantly -updated Termination P lan to ensure a continuous  service,  
+pursuant to the Decree -Law, the present Resolution and the resolutions issued by the 
+TDRA in pursuance to the Decree -Law and the present Resolution, and the 
+requirements of the Competent Authorities. The Termination Plan shall show the 
+following:  
+a. Means for notifying the Subs cribers upon the termination or discontinuation  
+of services;  
+b. Mechanism for ensurin g the safety and reliability of the Subscribers’ records;  
+c. Methods  for the Subscribers  affected by the termination or discontinuation  of 
+serv ices to access to their records; and  
+d. Methods to ensure  unaffected transactions and records made  and created by 
+the Subscribers throughout the per iod of providing  Trust Services by the 
+Licensee.  
+12. Recording and maintaining information related to data issued  and received  by the  
+Licensee , particular ly data  used to provide proofs for any legal proceedings or to 
+ensure the continuity of service  for a period not less than (15)  fifteen year s from the 
+date of creating the master register, oth er than identification proofs used to issue the 
+authentication  certificate, which shall be recorded and maintained for a period not 
+less than (10) ten years f rom the certificate expiry date, along with giving  access to 
+such information.  
+13. Developing adequate mechanisms  to receive and handle complaints, as per the 
+requirements identified by the TDRA .  
+14. Drawing  up the service policy document and the practice statement , as per the 
+standards and controls issued by the TDRA.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  13 
+ 15. Fulfilling the standards and requirements issued by the TDRA  when identifying 
+service procedures, as listed in the service policy document an d the practice statement  
+document.  
+16. Publishing the service policy and the practice  statement, as amended, to the public in 
+Arabic a nd English, in an electronic format  accessible  24/7.  
+17. Publishing the service policy dis closure document  provided , which briefly shows key 
+points of the policy of providing the service to the Subscribers and the Relying Parties.  
+ 
+Article (16)  
+Obligations of the Qualified Trust Service Provider  
+In addition to the obligations set forth  in article (15) above,  the Qualified Trust Service 
+Providers shall comply with the following controls and procedures:  
+1. Fair , honest and professional business conduct  in the  course of all their activities and 
+operations.   
+2. Appoint ing personnel with  specialized experti se, as per the competence and the 
+required  and reliable  practical and scientific expertise , from among those who hold 
+adequate certifications and trainings on the rules of information securi ty and personal 
+data protection, and of those who are familiar with the relevant natio nal and 
+international standards.   
+3. Securing  adequate financial resources for the management and operat ion of Qualified 
+Trust Services.   
+4. Using reliable a nd secure  systems to sto re, process and pr otec t data  in such a manner 
+that such data can be:  
+a. Retrieved, subject to the prior consent of the data subject ;  
+b. Entered , processed and changed only by authorized Persons; and  
+c. Validated.  
+5. Taking all actions necessary  for preventing data falsification, theft and unauthorized 
+use.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  14 
+ 6. Using  reliable and secure systems and technologies protec ted from hacking and 
+unauthorized  modification and ch ange, including techno -security and security of  
+procedures and transactions supported by the same.  
+ 
+Article (17)  
+Discontinuation  of Services  
+1. The  Licensee may not discontinue any of its activities or services without the prior 
+approval of the TDRA.  
+2. The application for discontinuation of Trust Services or Qualified  Trust Services shall 
+be made according to the means identified by the TDRA . 
+3. The TDRA shall reply to the appl ication for discontinuation of Trust Services or 
+Qualified Trust Ser vices  within one month from the date  of submitting the application. 
+In cases wh ere more time is r equ ired for review and examination, the Licensee s hall 
+be notified of the updated period.  
+4. The Licensee shall notify the TDRA of its desire  to discontinue providing any Trust 
+Services or Qualified Trust Services, in whole or in part, at least (3) thre e months prior 
+to the scheduled termination date.  
+5. The Licensee shall inform the public, including the  Subscribers and the Relying P arties, 
+of its desire to discontinue  provi ding any of its services, in whole or in part, at least (2) 
+months before the scheduled termination date and after obtaining  the TDRA’s 
+approval.  
+6. The Licensee shall help and  enable the Subscribers to transfer to another Licensee 
+providing services similar to the serviced intended to be terminated, as the case may 
+be, as per the controls and instructions set by the TDRA.  
+7. The Licensee shall take necessary measures to ensure th at the discontinuation  of any 
+of its services or part thereof  will not disrupt the verification  of validity and reliability 
+of the service  outcomes that would have arisen before the actual termination thereof.    
+ Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  15 
+ Article (18)  
+Licensee's Obligations to Activate the Termination Plan  
+The Licensee shall activate  its service Terminal Plan and shall take the following actions:  
+1. Revoking all certificates of authentication or data of Subscribers’ accounts issued by 
+the Licensee pertaining to the  services intended  to be  terminated, which had not been 
+revoked or which will not expire before the Licensee t erminates its services, whether 
+the Subscribers request to terminate the same or not;  
+2. Revoking all other relevant certificates;  
+3. Destroying , susp ending or preventing the use of all data  of creation of Electronic 
+Signature/Seal of the License e or Subscribers, including backups, so that the data of 
+Electronic Signature/Seal creation cannot be restored; and  
+4. The Licensee shall keep providing its services to the Subscribers within the term of t he 
+Termination Plan approved by the TDRA, and it may not provide its services to any 
+new Subscriber from the date of activating the Termination Plan.  
+ 
+Article (19)  
+Reliable Electronic Signature s and Seals  
+1. A Reliable Electronic Signature/Seal shall fulfill t he specifications and standards of 
+Encryption, the mechanism and requirements for an Elect ronic Signature/ Seal  
+creation , information security contr ols and additional requirements under the 
+resolutions issued by the TDRA.  
+2. A Reliable Electronic Signature/Seal shall be created according to one or more of the 
+templates and formats identified under the resolutions issued by the TDRA.  
+ 
+ 
+ 
+ 
+ Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  16 
+ Article (20)  
+Qualified Electronic Signatures and Seal s  
+A Qualified Electronic Signature/Seal shall fulfill the following requirements:  
+1. Fulfilling the conditions under the resolutions issued by the TDRA , as set forth in 
+article (19) above at the time of signature;  
+2. Not  to compromise the integrity of data signed;  
+3. The device used to create a Qualified Electronic Signature/Seal shall fulfill  the 
+requirements set out in article (26) hereunder; and  
+4. Any additional requirements set by the TDRA  under the resolutions issued by the 
+TDRA in implementation of the Decree -Law  and this Resolution , and the Competent 
+Authorities’ requirements.   
+ 
+Article (21)  
+Requirements for Qualified Electronic Signature/Seal  
+Authentication Certificate   
+1. A Qualified Electronic Signature/ Seal Authentication  Certificate shall include the 
+following:  
+a. Wording  or reference, in at least automatable format , stating that the 
+certificate has been issued as a Qualified Electronic Signature/ Seal 
+Authentication Certific ate. 
+b. A set of data that unequivocally  identif y the Qualified Trust Service Provider 
+that issues Qualified Electronic Signature/Seal Authentication Certificate s, 
+including a reference to the Unite d Arab Emirates bei ng the State where the 
+provider provides such service. Such  data shall include name and ID number 
+of the Qualified Trust Service Provider, as mentioned in official registers .    
+c. A set of data that unequivocal ly represents the signature/seal  issuer ’s identity , 
+including the following data:  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  17 
+ 1) Full name of the  Signatory , and where applicable, the identification 
+number as mentioned in official registers; and  
+2) A pseudonym , and if used, it shall be clearly referenced.  
+d. Signature/seal verification  data corresponding  to data of the Elec tronic 
+Signature/Seal creation data.  
+e. Details  of the Qualified Electronic Signature/Seal Authentication Certificate  
+validity period  (start and end).  
+f. Identification code of the Qualified Electronic Signature/Seal Authentication 
+Certificate, which must be unique for the Qualified  Trust Service Provide r.  
+g. The Qualified Electron ic Signature/Seal issued by the Qu alified Trust Service 
+Provider that issued the Qualified Electronic Signature/Seal Authentication 
+Certificate.  
+h. A free link to download the Qualified Electronic Signature/Seal Authentication 
+Certif icate.  
+i. The  website of accessible services  to check the validity of the Qualified 
+Electronic Signature/Seal Authentication Certificate.  
+2. Where the data of Elect ronic Signature/Seal creation of the verification of  Electronic 
+Signature is found in a device for creating a Qualified Electronic Signature, a reference  
+thereto shall be made in  the Qualified Electronic Signature/Seal Authentication 
+Certificate  in an automatable format.    
+3. A Qualified Electronic Signature/Seal Authentication Certificate  may include specific 
+non -compulsory  additional features, so that it will not affect the interoperability and 
+the recognition  of the  Qualified Electronic Signature/ Seal.  
+4. TDRA  may add any other requirements in the Q ualified Electronic Signature/Seal 
+Authentication Certificate  under the resolutions issued by the TDRA in 
+implementation of the Decree -Law  and this Resolution and the Competent 
+Authorities’ requirements.  
+ Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  18 
+ Article (22)  
+Revocation  of Authentication Certificates  
+Where a Qualified Electronic Signature/ Seal Authentication Certificate  is revoked after 
+being issued, it  shall be come  invalid once revoked. In no event may such  certificate be 
+reactivated.   
+ 
+Article (23)  
+Prohibition of Temporary Suspension of Authentication Certificates  
+It is prohibited for the Licensee to temporarily suspend a Qualified Electronic 
+Signature/Seal Auth entication Certificate , or temporarily suspend  its validity period after 
+being activated.  
+ 
+Article (24)  
+Issuance of the Qualified Electronic Signature/Seal  
+Authentication Certificate  
+1. The Qualified Electronic Signature/Seal Authentication Certificate s may be provided 
+as a Qualified Trust S ervice only through a Qualified Trust Service Provider.  
+2. The Qualified  Trust Service Providers may use a Qualified Electronic Signature/Seal 
+Authentication Certificate issued by another Q ualified Trust Service Provider 
+accompa nied by a valid Qualified Electronic Signature/Seal  to authenticate the Person 
+requesting a Qualifie d Electronic Signature/Seal Authentication Certificate.  
+3. Where the Qualified Trust Service Provider uses a procedure equivalent to the 
+appearance in person to verify the identity and capacity of the Person  to whom a 
+Qualified Electronic Signature/Seal Auth entication Certificate will issue, pursuant to 
+Clause (4) of Artic le (34) of the Decree -Law, the TDRA may, in addition to th e 
+Compliance Assessment report, ascertain that such procedures is equivalent to the 
+appearance in person, pursuant to the controls issued by the TDRA in this regard.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  19 
+ 4. The Qualified Trust Service Provider that issues a Qualified Electronic Signature/Seal 
+Authentication Certificate as a Qualified Trust Service shall create and update a 
+data base for the certificates.  
+5. The Qualified Trust Service Provider shall identify a set of adequate policies and 
+practices to provide the Qualified Electronic Signature/Seal Authentication Certificate 
+as a Qualified Trust  Service under the policy of  providing the  Qualified Electronic 
+Signature/Seal Authentication Certificate  service as a Qualified Trust Service and the 
+practice statement of such service.  
+6. The service policy and the practice statement shall be governed by the  technical 
+requirements and specifications of the content an d structure of policies defined under  
+the resolutions issued by the TDRA.  
+7. The Qualified Trust Service  provider shall be responsible  for providing the Qualified 
+Trust Service according to the procedures set forth in the service practice  statement 
+and the service policy. Where the Trust Serv ice or part thereof is provided by third 
+parties, the Qualified Trust Service Provider shall identify the responsibility  of such 
+parties and ensure  that they will comply with any controls required by the Qualified 
+Trust Service Provider.   
+ 
+Article (25)  
+Revocati on of Qualified Electronic Signature/Seal  
+ Authentication Certificate  
+1. If the Qualified Trust Service P rovider that issued a Qualified Electronic Signature/Seal 
+Authentication  Certificate decides to revoke the certificate, at the request of its holder 
+or for the reasons identified by the service pr ovider, they shall record the revocation 
+in their certificate  database and publish the certificate revocation case  status  on the  
+service of verifying the validity of certificates, within a period not exceeding (24) 
+twenty four h ours from the date of receiving the certificate holder’s request. The 
+revocation shall take effect once published.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  20 
+ 2. The Qualified Trust Service Provider sha ll provide any Rely ing Party with  any 
+information re lated to the validity or revocation of authentication certificates issued  
+by the same, even following the expiry of the Qualified Electronic Signature/Seal 
+Authentication Certificate  and for at least (15)  fifteen years from the expiry thereof ; 
+provided  that such information  is free and automatically accessible at all times.  
+ 
+Article (26)  
+Issuing the Qualified Electronic Signature/Seal Device  
+1. A Qualified  Electron ic Signature/Seal  creation  device  may be issued to Signatories  as 
+a Qualified Trust Service only through a Q ualified Trust Service Provider fulfilling the 
+technological , pro cedural security and regulatory specifications and standards to be 
+identified under a resolution by the TDRA.  
+2. The Qualified  Trust Service Provider shall identify a set of adequate policies and 
+practices  to provide devices  for creating the Qualified Electroni c Signature/Seal as a 
+Qualified Trust Service. In  all cases, such policies and practices shall fulfill  the technical 
+requirements an d specifications of content and structure identified under a resolution 
+by the TDRA.  
+3. A Qualified Electron ic Signature/Seal creation device  must  fulfill  the requirements of 
+article (21) of the Decree -Law, and the Qualified Electron ic Signature/Seal creation 
+device mus t be approved by entities  issuing qualification certificates for such devices , 
+whether public or private entities ; provided that such entiti es are approved by the 
+TDRA.  
+4. The Qualified Trust Service Provider shall comply with the standards and 
+requirements  of security assessment of IT technologies, products and servic es issued 
+by the TDRA for approving the Qualified Electronic Signature/Seal creation devices .  
+5. Entities  granting qual ification certificates for the Qualified Electronic Signature/Seal 
+creation devices  shall comply with the list of standards a nd requirements issued by 
+the TDRA. Any qualification granted to any of such entities  or any devices  approved Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  21 
+ by the same shall be revoked if it is established that it has violated such standards and 
+requirements.  
+6. The Electronic S ignature creation data may be managed,  created and copied  on behalf 
+of the Signatory  only through a Qualified  Trust Service Provider th at provides a 
+Quali fied Trust Service for managing a Qualified Electronic Signature  creation device  
+remotely.   
+7. The Qualified T rust Service Provider shall use only Qualified Electronic Signature /Seal 
+creation devices  approved by the TDRA.  
+8. The TDRA shall create, publish and manage a list of  entities that issue  qualification 
+certificates of the Qualified Electronic Signature/Seal creation devices  and tools 
+approved by the same , in addition to a dated record showing the status of such entities 
+and the status  of approvals of qualification of devices .  
+9. The Qualified  Trus t Service Provider shall follow the condition s and procedures issued 
+by the TDRA to apply for using Qualified El ectronic Signature/Seal creation devices , 
+in order to be listed in the list referred to in Clause (8) above.  
+10. An applicant for a Qualified Ele ctronic Signature/Seal creation device or the Licensee 
+if the qualification certificate granted to t he device  by the entities issuing qualification 
+certificates for Qualified Electronic Signature/Seal creation devices , shall so notify  the 
+TDRA within two weeks from the date of revocation. In  this case, TDRA may make or 
+may ask the Qualified Trust Service Pr ovider to make an assessment on the impact on 
+the licensed services  and to take any appropriate actions based on the assessment  
+findings.   
+ 
+Article (27)  
+Remote Management of the Qualified Electronic Signature/Seal Device   
+1. The Qualified Electroni c Signature/Seal creation devices  shall be managed remotely 
+as a Trust Service qualified by the Qualified  Trust Service Provider that shall:  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  22 
+ a. Create  and manage the Qualified Electroni c Signature/Seal creation data on 
+behalf of the Signatory ; and  
+b. Copy  the Qualified Electronic Signature/Se al creation data  only for backup 
+purposes, subject to the following:  
+1) The  level of security of copied datasets must be at the same level of security 
+of original datasets; and  
+2) The  number of copied datasets must not exceed the minimum required to 
+ensure the  continuity of service.  
+c. To ensure remote conformity with any requirements set out in the 
+qualification  certificate of the Qualified Electronic Signature /Seal creation 
+device , issued pursuant to article (26) above.  
+2. The TDRA shall issu e the resolutions pertaining to technological standards and 
+specifications related to Clause  (1) above.  
+3. The Trust Service Provider shall identify a set of adequate policies and practices  for 
+providing the service of remote management of t he Qualified Electronic  
+Signature/Seal creation devices  as a Qualified  Trust Service. In all cases, such policies 
+and practices shall fulfill the technical requirements and specifications of content and 
+structure, as identified by a resolution issued by the TDRA.  
+4. The Qualified Trust Service Provider shall be responsible for  providing the Qualified  
+Trust Service according to the procedures set forth in the service practice statement  
+and the service policy. Where the Trust Service or part thereof is provided by third 
+parties, the Qualifi ed Trust Service Provider shall identify  the responsibility o f such 
+parties and ensure their compliance with any controls required by the Qualified Trust 
+Service Provider.  
+ 
+ 
+ 
+ Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  23 
+ Article (28)  
+Data Retention of the Qualified Electronic Signature/Seal  
+1. The Qualified Electronic Signature/Seal data retention  service may be provided only 
+by a Qualified  Trust Service Provider that uses the procedures and techn ologies 
+capable of extending the  Trust Qualified Electronic Signature/Seal  authenticity period  
+beyond the technological  validity period identified by a resolution by the TDRA. Such  
+procedures and technologies shall have no impact on the reliability of the Qualified 
+Electronic Signature/Seal.  
+2. The Qualified  Trust Service Provider shall retain the au thenticity  of the Trust Qualified 
+Electronic Signature/Seal for a period not less than (15) fifteen years from  the 
+retention request date.  
+3. The Qualified Trust Service Provider  shall retain all information necessary for verifying 
+the validity of the Qualif ied Trust Service Provider up to the end of the retention  
+period.  
+4. The Qualified Trust Service Provider shall ensure the safety, quality and clarity  of the 
+Qualified  Electronic Signature/Seal data retained b y the same, and shall allow to be 
+prop erly used by the Subscribers or another Qualified Trust Service Provider 
+providing a Qualified  Trust Service, subject to the Subscribers’ express consent.  
+5. A signature  or seal affixed to a retention manual issued by the Qualified Trust Service 
+Provider  mus t be made by using a Reliable  Electronic Signature/Seal issued by the 
+provider.  
+6. The Qualified Trust Service Provider shall identify a set of adequate policies and 
+practices  to provide the service of the Qualified Electr onic Signature/Seal data 
+retention  as a Qualified Trust Service. In all cases, such policies and practices  shall fulfil 
+the technical requirements and specifications of content and structure  identified by a 
+resolution issued by the TDRA.  
+7. The Qualified Trust Service provider shall be respo nsible for providing the Qualified 
+Trust Service according to the procedures set forth in the service practice statement Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  24 
+ and the service policy. Where the Trust Service or part thereof is provided by third 
+parties, the Qualified Trust Service Provider shal l identify the responsibility of such 
+parties and ensure that they will comply with any controls required by the Qualified 
+Trust Service Provider.   
+ 
+Article (29)  
+Archiving Digital Documents  
+When government authorities  archive electronic documents signed by a 
+Reliable /Qualified  Electronic Signature /Seal, the y shall ensure the following:  
+1. To preserve the Electronic  Signature/Seal  from change .  
+2. To preserve the Electronic Signature/Seal from deletion.  
+3. To ensure that the E lectronic Signature/Seal is recreated on a new document should 
+any authorized  change is introduced to the Electronic Document.  
+ 
+Article (30)  
+Validation of the Qualified Electronic Signature/Seal  
+1. The Qualified Electronic Signature/Seal validation  service may only be provided by a 
+Qualified  Trust Service Provider that fulfills the provisions of  article (20) of the 
+Decree -Law, and pursuant to the resolutions issued by the TDRA in this regard.  
+2. The Qu alified Electronic Signature/Seal data validation service  provider shall identify 
+adequate policies and practices to verify the validity of the Qualified Electronic 
+Signature s/Seal s.  
+3. Time information added to the result  of the Qualified Electronic Signature/Seal 
+validation shall be created by using a qualified Time Stamp.  
+4. The Qualified Trust Service provider shall be responsible for providing the Qualified 
+Trust Service according to the procedures set forth in the servic e practice statement 
+and the service policy. Where the Trust Service or part thereof is provided by third 
+parties, the Qualified Trust Service Provider shall identify the responsibility of such Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  25 
+ parties and ensure that they will comply with any controls req uired by the Qualified 
+Trust Service Provider.   
+5. The TDRA shall issue the resolutions pertaining to technologic al standards and 
+specifications to be adhered by the qualified service provider, including:  
+a. Operational  and security controls, service managemen t mechanism, physical 
+security requirements , requirements for  technica l and security inspections 
+testing  of the service  before provided to the Subscribers and technical and 
+security inspection reports.  
+b. Requirements  for listing the Qualified Electronic Signature/Seal  validation 
+service as a Qualified Trus t Service in the UAE Trust List.  
+ 
+Article (31)  
+Qualified  Electronic Time Stamp  Creation Service   
+1. The Qualified Electronic Time S tamp creation service may be provided only by a 
+Qualified Trust Service Provider that fulfills the provisions of article ( 23) of the 
+Decree -Law, and pursuant to the resolutions issued by the TDRA  in this regard.  
+2. The Qualified Trust Service Provider that provides the Qualified Electronic Time 
+Stamp creation service shall identify a set of adequate policies and practices to create 
+the Qualified Electronic Time Stamp. In all cases, such policies and practices shall fulfil 
+the technical requirements and specifications of content and structure identified by a 
+resolution issued by the TDRA.   
+3. The Q ualified Trust Service provider that provides the Qualified Electronic Time 
+Stamp service shall be responsible for providing such service according to the 
+procedures set forth in the service practice statement and the service policy. Where 
+the Trust Servic e or part thereof is provided by third parties, the Qualified Trust Service 
+Provider shall identify the responsibility of such parties and shall ensure that they will 
+comply with any controls required by the Qualified Trust Service Provider.   Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  26 
+ 4. The TDRA sha ll issue the resolutions pertaining to technological sta ndards and 
+specifications to be complied with by the Qualified Service P rovider, including:  
+a. The service policy and the practices statement, as m entioned in article (15) 
+above; and  
+b. Requirements for listing the service in the UAE Trust List.  
+ 
+Article (32)  
+Qualified Electronic Delivery Service  
+1. The Qualified Electronic Delivery Service may be provided only by a Qualified Trust 
+Service Provider that fulfills the provisions of article (2 4) of the Decree -Law, and 
+pursuant to the resolutions issued by the TDRA in this regard.  
+2. The Qualif ied Electronic Delivery Service Provider shall identify  the sender and the 
+Addressee at a high level of security  and trus t and at a high degree of trust and 
+acceptance , so as to eliminate an y risks and prevent manipulation of  the identity of 
+the sender and the Addressee.  
+3. The Qualified Electronic Delivery Service Provider shall identify a set of adequate 
+policies and practices  to provide the Qualified Electronic Delivery Service. In all cases, 
+such policies and practices shall fulfil the technical requirements and specifica tions of 
+content and structure identified by a resolution issued by the TDRA.     
+4. The Qualified Electronic Delivery Service Provider shall be responsible for providing 
+such service according to the procedures set forth in the service practice statement 
+and  the service policy. Where the Trust Service or part thereof is provided by third 
+parties, the Qualified Electronic Delivery Service Provider shall identify the 
+responsibility of such parties and shall ensure that they will comply with any controls 
+require d by the Qualified Electronic Delivery Service Provider .  
+5. TDRA shall issu e the resolutions pertaining to technological sta ndards and 
+specifications to be complied with by the Qualified Electronic Delivery Service 
+Provider, including:  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  27 
+ a. The service policy and the practice  statement set forth in article (15) above;  
+b. Requirements for listing  the Qualified Electronic Delivery Service  and user  
+manuals; and  
+c. Requirements for listing t he service in the UAE Trust List.  
+6. Data sent and received via the Qualified Electronic Delivery Service shall const itute 
+evidence of the integrity of data sent and being sent by an identified  sender  and 
+received by an ident ified Addressee, in addition to an accurate sending and receiving 
+date as referred to by the Qualified Electronic Delivery Service.  
+ 
+Article (33)  
+Compliance Assessment  
+1. Any entity  not approved or authorized  by the TDRA may not  carry out a compliance 
+assessment for the purpose of implementing  the Decree -Law and this Resolution and 
+the resolutions issued by the TDRA in implementation of both of which , and the 
+Competent Authorities’ requirements.  
+2. An entity assessing the complianc e must be  approved by and registered with the 
+TDRA.  
+3. The  Compliance Assessment entity  shall draw up a report on the conformity of the 
+License applicant or the Licen see and services provided or to be provided  with the 
+requirements set forth in the Decree -Law and this Resolution and the resolutions 
+issued by the TDRA in implementation of both of which , and the Competent 
+Authorities’ requirements .  
+4. The Compliance Assessment reports shall be issued according to t he specifications 
+and procedures identified by the TDRA.  
+5. The Compliance A ssessment entity shall avoid any conflict of interest, whether actual 
+or potential conflict of interest , for carrying out the Compliance Assessment of the 
+License applicant or the Li censee. The TDRA shall identify the necessary standards and 
+controls in this regard.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  28 
+ 6. The TDRA shall issue the resolution s related to technologic al standards and 
+specifications to be complied with by the Compliance Assessment entities, including:  
+a. Mechanisms  for accrediting assessment entities; and  
+b. Rules of scrutiny  to be complied with by the Compliance Assessment entities 
+while assessing the compliance of Trust Service Providers or Qualified Trust  
+Service Providers and services provided by them.  
+ 
+Article (34)  
+UAE Trust List  
+1. The TDRA shall create a list to be called “the UAE Trust List” according to the 
+specifications set by the TDRA, and shall publish the same on its website. Such list 
+shall include the following:  
+a. Information  on Trust Service Providers, Trust Services provided by the  same 
+and indication  of the License status; and  
+b. Information on Qualified Trust Service Providers, Qualified Trust Services 
+provided by the same and indication  of the License status and the Status of 
+Qualified  Service Provider.  
+2. The information referred to in Clause (1) above sha ll be provided by Trust Service 
+Providers or Qualified  Trust Service Providers in suc h a confirmed and reliable 
+manner through their compliance reports issued by the Compliance Assessment 
+entity or the TDRA.  
+3. The TDRA shall issue  the resolutions related to technologic al standards and 
+specifications and t he UAE Trust List procedures, such as the UAE Trust List form, 
+content,  publication mechanism, maintenance, adjustment, reading  mechanism  and 
+use by Qualified Parties.  
+4. TDRA shall list the Licensee in the UAE Trust List on the basis of services set out in the 
+License.  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  29 
+ 5. When the TDRA lists the  Licensee in the UAE Trust List, it shall link each service set out 
+in the License  with a  Digital Identifier that allows to uniquely and clearly identify the 
+service according to the technical specifications and resolutions issued b y the TDRA 
+in this regard.  
+ 
+Article (35)  
+Qualified Trust Mark  
+1. The TDRA sha ll identify, publish and manage the standards r elated to the form, 
+content and presentation  of the Qualified  Trust Mark of the Qualified Trust Services.  
+2. The Qualified Trust Service Provider may use the provided Qualified Trust Mark ; 
+provided that a reference is made to the Status of Qualified Servic e Provider in the 
+UAE Trust List, as follows:  
+a. Fulfilling the Status of Qualified  Service Provider and the licenses necessary 
+for a Qualified  Trust Service Provider, pursuant to the Decree -Law and this 
+Resolution and the resolutions issued by the TDRA in i mplementation of both 
+of which , and the Competent Authorities’ requirements;  
+b. A reference must be made in a clear and non -misleading way to the Qualified 
+Trust Services, the Status of Qualified Se rvice Provider and the effective license 
+of the Qualified  Trust Service; and  
+c. Providing an active link for the Qualified  Trust Mark refers to the Status of 
+Qualified  Service Provider and the Qualified Trust Services in the UAE Trust 
+List, as per the requirements and resolut ions issued by the TDRA.  
+ 
+  Cabinet Resolution on the Executive Regulations of Federal Decree -Law on Electronic Transactions and Trust Services  30 
+ Article (36)  
+Repeals  
+Any provision contrary to or in confl ict with the provisions of this Resolution shall hereby 
+be Repealed.  
+ 
+Article (37)  
+Publication and Entry into Force of the Resolution  
+This Resolution shall be published in the Official Gazette, and shall enter into force (90) 
+days following the publication date.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mohammed bin Rashid Al Maktoum  
+Prime Minister  
+ 
+ 
+Issued by us:  
+On: Ramadan 9th, 1444 H.  
+Corresponding to: March 31st, 2023 AD . 

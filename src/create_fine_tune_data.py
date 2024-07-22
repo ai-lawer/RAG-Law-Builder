@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from tqdm import tqdm
 import ollama
@@ -16,12 +17,13 @@ def create_fine_tune_data(isAr):
         if isAr
         else "../datasets/fine_tune_data.csv"
     )
-    fieldnames = ["instruction", "input", "output"]
-    with open(csv_file_path, mode="w", newline="") as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-        writer.writeheader()
+    if not os.path.exists(csv_file_path):
+        fieldnames = ["instruction", "input", "output"]
+        with open(csv_file_path, mode="w", newline="") as csv_file:
+            writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+            writer.writeheader()
 
-    for i in tqdm(range(len(df))):
+    for i in tqdm(range(100, len(df))):
         response = ollama.chat(
             model="llama3",
             messages=[

@@ -1,0 +1,542 @@
+Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  1 
+ Cabinet Resolution No. (18) of 2023  
+Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  
+ 
+Cabinet  
+−  Having reviewed the Constitution;  
+− Federal Law No. (1) of 1972 Concerning the Competence of Ministries and Powers of 
+Ministers, as amended;  
+− Federal Law No. (20) of 1991 Issuing the Civil Aviation Law;  
+− Federal Decree by Law No. (3) of 2003 Regulating the Telecommunications Sector, as amended;  
+− Federal Law No. (12) of 2019 Regulating the Space Sector;  
+− Federal Decree Law No. (85) of 2000 on the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer space, including the Moon and Other Celestial 
+Entities and the two Agreements Concerning these activities;  
+− Based on the  proposal of the Chairman of the UAE Space Agency, and the approval of the 
+Cabinet,  
+Has resolved:  
+ 
+Article (1)  
+Definitions  
+In Application of the provisions herein, the following words and expressions shall have the 
+meanings ascribed thereto, unless the con text requires otherwise:  
+State  : The United Arab Emirates.  
+State Territory  : The State lands, territorial sea, and the Air Space above it, including free zones or any areas with a special economic  status .
+ Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  2 
+ Government 
+Entities  : Ministries, public authorities and institutions, and all other federal or local Government Agencies in the State .
+ 
+Agency  : UAE Space Agency.  
+Board of Directors
+ : Board of Directors of the UAE Space Agency.  
+Chairman of 
+the Board of 
+Directors  : Chairman of the Board of Directors of the UAE Space Agency.  
+Law  : Federal Law No. (12) of 2019 Regulating the Space Sector.  
+Identified Area
+ : Any area eighty kilometres or more above the mean sea level.  
+Space Object  : An object that a person makes, launches,  or aims to launch into the or 
+from the Identified Area, whether manned or unmanned that shall 
+include: the constituent parts of the Space Object, its launch vehicle and 
+the parts thereof, including those that do not reach the Identified Area.  
+Payload  : Everything that a space object carries with the aim of transporting it to a 
+specific destination within the Identified Area. It may include a satellite, 
+humans, equipment, goods, or others.  
+Damage  : Losses of life, personal injury, or any other harm to health,  or the loss or 
+damage that is caused to the property of the State, the property of 
+Persons, or the property of intergovernmental organisations.  
+Space 
+Activities  : Activities that target the Identified Area, including its discovery, making 
+an impact thereon , using, or utilising it, in accordance with the provisions 
+of article (4) of this Law.  
+Other activities 
+related to the 
+Space Sector
+ : Activities that are carried out under the Identified Area and are related to space and aim to support Space Activities, such as High Altitude Activities 
+or Space -Supporting Flights.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  3 
+ High Altitude 
+Activities  : Activities that shall be above the range of air  traffic control and lower 
+than the Identified Area.  
+Re-entry  : The process of returning or attempting to return a Space Object from the 
+Identified Area, including stages and preparations necessary for its Re -
+Entry of the Earth atmosphere, until it settles on the Earth.  
+Space -
+Supporting 
+Flights  : Any flight in the State airs pace, which cannot be described as a Launch 
+or Re -Entry activity and aims to support Space Activities and the related 
+experiments and training.  
+Operator  : A person engaged in Space Activit ies, Space -Supporting Flights, High 
+Altitude Activities, Space Data management and distribution activities, or any other activities related to the Space Sector subject to this Law.  
+Launch  : The process of launching or attempting to launch a Space Object int o or 
+through the Identified Area. This shall include all necessary preparations 
+and activities at the launch site, up to the stage of the load separation and 
+detachment from the head of the Space Object.  
+Space Data  : Data that results from Space Activities,  whether it is remote sensing data, 
+or navigation data using satellites, or others.  
+Meteorite  : A natural mass or metal stone that is not man -made, reaching the Earth 
+from Outer Space without human intervention.  
+Authorisation  : A document granted by the Agency to a Person and authorising him/it to 
+carry out the activities listed therein, including Licences, Authorisations 
+and Approvals, in accordance with the provisions of this Law.  
+Licence  : One of the categories of Authorisation issued by the Agency to pract ice 
+Space Activities or other activities related to the Space Sector for 
+commercial purposes.  
+Permit  : One of the categories of Authorisations issued by the Agency, which 
+allows it to perform Space Activities or other activities related to the 
+Space Sector,  as authorised by the Agency.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  4 
+ Approval 
+(Non -
+Commercial 
+Licence)  : One of the categories of Authorisation issued by the Agency to practice 
+Space Activities or other activities related to the Space Sector for 
+commercial purposes.  
+Authorised 
+Party  : The Operato r who has obtained a Authorisation to perform his 
+activities in accordance with the provisions of this resolution.  
+Space Resources
+ : Any non -living resources present in outer space, including minerals and 
+water.  
+Compensation  : Financial compensation that the  Operator, the insurer (insurance 
+company), or any other guarantor shall pay directly to the third party 
+who was exposed to damage during the Operator practice of Space 
+Activity, or to pay it to the list of beneficiaries Identified in the 
+compensation guar antee in the event that they directly pay the required 
+compensation to the third party who was exposed to damage. In 
+accordance with the agreed upon provisions and procedures.  
+Compensation 
+Guarantee  : The document submitted by the Operator to the Agency pro ving his 
+undertaking and ability, directly or through a guarantor or insurance 
+policy, to pay the limit of compensation for liability in case of harm to 
+others as a result of his practice or participation in implementing a 
+specific Space Activity.  
+Person  : Natural or legal person.  
+Outer Space  : The area above the Earth atmosphere.  
+Sounding rockets
+ : Research rockets that are used to obtain information about the 
+atmosphere at different altitudes.  
+ 
+ 
+ 
+ Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  5 
+ Article (2)  
+Scope of Application  
+Provisions of this Resolution shall be applicable to the following:  
+1. Space Activities or activities related to the Space Sector that are carried out in the territory of 
+the State or in facilities affiliated with the State outside the territory of the State.  
+2. Space vehicles or objec ts registered with the State.  
+3. Space Activities carried out by persons who hold the nationality of the State, or companies 
+that have a headquarters in the State.  
+ 
+Article (3)  
+Regulated Activities  
+1. The following activities shall require a Authorisation from the Agency in accordance with the law, this resolution, and other regulations in force at the Agency.  
+2. Space Activities, which shall include the following:  
+a. Launch.  
+b. Return to entry “Return of the space object.”  
+c. Removing or disposing of a Space Object from the orbit.  
+d. Operating the Launch sites or Re -Entry “the return of Space Object ”. 
+e. Operating Space Objects, including monitoring and controlling them.  
+f. Satellite communication activities.  
+g. Activities of space navigation, remote sensing or Earth observation.  
+h. Space awareness activities (awareness of the space case, status, and surrounding 
+conditions), including monitoring and tracking of Space Objects.  
+i. Activities that include the discovery, exploitation, extraction and use of space  resources, 
+whether for commercial, scientific or other purposes.  
+j. Providing logistical support services in Outer Space.  
+k. Exploring space or conducting space -related scientific experiments or participating in 
+astronomy activities.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  6 
+ l. Manned Space -fligh ts, or long -term human residence in space, or the construction or use 
+of facilities in space or on the surface of Celestial Bodies, permanently or temporarily.  
+m. Manufacture, assembly, completion, development, testing, transportation, storage, trade 
+or di sposal of space technologies.  
+n. Any other Space Activities determined by a Cabinet resolution based on the proposal of 
+the Board of Directors.  
+3. Other Space Sector -related activities, shall include:  
+a. Space -Supporting Flights and High Altitude Activitie s that shall not be subject to Federal 
+Law No. (20) of 1991 above -mentioned, whether they are carried out in the State Territory 
+or include the participation of a flying aircraft or vehicle registered in the State.  
+b. Space Data management activities, whic h include receiving, storing, processing, 
+distributing, archiving or disposing of any Space Data.  
+c. Specialised training programmes related to space fields by non -governmental agencies.  
+d. Any other Space Sector -related activities determined by a Cabinet Resolution, upon the 
+proposal of the Board of Directors.  
+ 
+Article (4)  
+Prohibiting the practice of Space Activities and other activities related to the 
+Space Sector without a Authorisation  
+1. Prohibiting the practice of Space Activities and other activities  related to the Space Sector 
+without a Authorisation.  
+2. Prohibiting the practice of any of the activities listed in article (3) of this Resolution, or to 
+establish, use or own space facilities related to them without obtaining a Authorisation from 
+the Age ncy.  
+ 
+ 
+ 
+ Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  7 
+ Article (5)  
+Criteria for evaluating Authorisation Application  
+1. The Agency shall evaluate the Application for a Authorisation for Space Activities or other 
+activities related to the Space Sector according to the following:  
+a. Potential risks that may affect public health, safety, and property safety inside and outside 
+the State territory.  
+b. Protecting the interests and security of the State.  
+c. The general policy of the State and its foreign relations.  
+d. Obligations established under the legislat ion in force in the State, including those 
+established under relevant international treaties and agreements to which the State is a 
+party.  
+e. The environment and its protection, whether inside or outside the State territory, 
+including the outer space envir onment and the surfaces of other Celestial Bodies.  
+f. The competence, experience, and administrative, financial, and technical ability of the Applicant to implement the activities required to be declared, provided that the focus shall 
+be on the leadership competencies of the entity submitting the Application.  
+g. Providing a guarantee of appropriate compensation for liability for damages that may 
+befall others, which may arise from practising the activities required for a Authorisation, or any other guarante es provided by the Applicant and approved by the Agency.  
+h. The Applicant shall obtain Authorisations and Approvals from other Government Entities 
+related to the activity for which a Authorisation is required, inside or outside the State, 
+whenever necessar y. 
+i. The extent of the Applicant compliance with other national laws and regulations within 
+the State that may be applicable to the Space Activity to be declared. If the Applicant 
+carries out Space Activities in other countries, the Agency may request inf ormation and 
+evidence on the extent of the Applicant compliance with the laws and regulations 
+applicable in those countries, as they deem appropriate to evaluate whether to grant the 
+Authorisation.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  8 
+ j. The Applicant compliance with the requirements of the g uidelines issued by the Agency 
+and the required periodic reports, including those on space debris mitigation.  
+k. Any other factors that the Agency deems appropriate to take into account in light of the 
+specific characteristics of the Applicant Application and the nature of the activities 
+requested to be Authorised.  
+2. When evaluating the Applicant fulfilment of the above -mentioned conditions, the Agency 
+shall take into account the nature of his work, the extent of his experience, and the nature of 
+the activ ity to be declared, and takes into account the probability of the risks related to the 
+activity occurring and their impact, as each case is evaluated separately during the Application process.  
+ 
+Article (6)  
+Reviewing the Space Activities Authorisation Application  
+Upon the review of the Application, the Agency shall take into account the criteria stipulated in article (5) of this resolution, according to the following:  
+1. Review the activities to be carried out under the Authorisation, to ensure efficiency an d 
+rationalisation of the use of natural resources such as radio frequencies and satellite orbits, 
+emergency plans and risk safety measures, including any measures that can be taken to 
+mitigate these risks, in accordance with the requirements established within the State and any international obligations.  
+2. Evaluate the security and safety aspects of Space Activities or other activities related to the Space Sector, as the Agency deems appropriate, and it may request the Applicant to provide a security and s afety plan to deal with any exceptional cases that may occur during the launch 
+and Re -Entry of the space object, including measures to reduce negative impacts on the outer 
+space environment and mitigate the spread of space debris. In addition, the plan shall include 
+a mechanism to inform the Agency in case of exposure to any risks that affect or are likely to 
+affect Space Activities and other activities related to the Space Sector, and to provide the 
+Agency with any developments and changes that occur to th ese. Plans as soon as possible.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  9 
+ 3. Review and ensure that the terms and conditions of the Authorisation for organising manned 
+Space Flights are met pursuant to the regulations related to these flights.  
+4. Review the arrangements to ensure compensation for damage caused to third parties during 
+the exercise of Space Activities (liability towards third parties).  
+5. Ensure the existence of the necessary commercial Licences to practice commercial activities 
+in the State, and evaluate the financial and administrative capabilities and expertise necessary 
+to practice Space Activities.  
+6. The Applicant shall make sure to obtain Authorisations and Approvals from other 
+Government Entities related to the activity for which a Authorisation is required, inside or 
+outside the State, whenever necessary.  
+7. Confirm the necessary technical and operational qualifications of any of the Applicant Employees concerned with Space Activities subject to regulation in accordance with this 
+resolution, and based on the information provid ed by the Applicant to the Agency. The 
+Agency may request further information about these employees, if it deems it necessary.  
+8. Ensure the existence of appropriate communication channels that ensure the Agency obtains information relevant to the activities subject to regulation in accordance with this resolution 
+and any update to this information, to enable the Agency to exercise its powers.  
+ 
+Article (7)  
+Ensure compensation for damage caused to third parties during the exercise of 
+Space Activities (liability towards third parties).  
+The Operator who practices Space Activities or activities related to the Space Sector in accordance with the provisions of this resolution shall provide a guarantee for compensation for damage 
+caused to others during the exercise of Space Activities (liability towards third parties) in 
+accordance with the resolutions regulating it.  
+ 
+  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  10 
+ Article (8)  
+Foreign Contracts and Participation  
+1. The Agency may request from the Authorised Party information related to his contracts with 
+local or foreign companies and their purpose. In doing so, it may request that it be provided 
+with copies of these contracts, for the purposes of ensuring compliance with the Authorised 
+Party obligations under this resolution without prejudice to the confidentiality of the 
+information.  
+2. In the event that the Authorised Party concludes any new contracts with local or foreign companies, and the Agency is not informed of them in advance, whether as part of the 
+Authorisation Application or process or at the request of the Agency, and these contracts have 
+a material impact on the operation of Space Activities as authorised by the Agency, the 
+Authorised Party shall as soon as practicable inform the Agency of the existence of these new 
+contracts.  
+ 
+Article (9 ) 
+Space -Supporting Flight Activities and High Altitude Activities  
+1. Operators wishing to practice Space Flight Activities or High Altitude Activities carried out from the territory of the State or from its facilities outside the territory of the State or from a 
+ship, aircraft or any other means registered within the State or registered by it or carried out 
+by a person holding the nationality of The State or a company with a headquarters in the State shall obtain a Authorisation from the Agency, in accordan ce with the following conditions:  
+a. Compliance with the terms and conditions for issuing Authorisations pursuant to this 
+resolution and any other regulations in force at the Agency related to Space -Supporting 
+Flight activities or High Altitude Activities.  
+b. Provide proof that the primary purpose of practising the Space -Supporting Flight activities 
+for which a Authorisation is required is to support the practice of Space Activities, 
+including experimentation and training activity.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  11 
+ c. Provide evidence of ob taining any required approvals from any other Government 
+Entities inside or outside the State as required to operate Space -Supporting Flight 
+activities or High Altitude Activities in a viable manner.  
+d. Submit any certificates or fulfil any requirements re lated to air traffic management.  
+2. The provisions stipulated in this resolution apply to the Authorisation issued under this 
+article, including renewing, amending, cancelling, transferring or suspending the 
+Authorisation, as well as providing information as requested by the Agency regarding any contracts with entities outside the State with which the Operator has contracted. And review 
+procedures to the extent appropriate to the nature of space support and High Altitude flight 
+activities.  
+3. The Agency sha ll, based on the technical assessment of the risks of the activities, evaluate the 
+extent to which the Agency shall request the Operator to provide a guarantee or obtain the 
+necessary insurance coverage to cover the risks of damage that may befall the Stat e and third 
+parties arising from Space -Supporting Flight and High Altitude Activities.  
+4. The Agency, upon granting a Authorisation for Space -Supporting Flight Activities and High 
+Altitude Activities which includes manned flight on board, shall ensure that  the Applicant for 
+a Authorisation meets the following requirements:  
+a. A proof that the natural person is aware and well- informed of the risks associated with 
+the Space Flight;  
+b. The written consent of the natural person to carry out these trips and his acceptance of the risks associated with them;  
+c. A proof that the natural person has completed the necessary training and health fitness to take the Space Flight as determined by a resolution issued by the Board of Directors;  
+d. A proof that he has perform ed all necessary risk and safety assessments, and that there is 
+an appropriate emergency plan; and  
+e. Compliance with the legislation in force regarding civil aviation in the State.  
+   Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  12 
+ Article (10)  
+Sounding Rockets  
+1. It is not permissible to carry out sounding Rocket launching activities except after obtaining a 
+Authorisation from the Agency.  
+2. The provisions of the Authorisations mentioned in this resolution shall apply if the Operator 
+or Applicant for the Authorisation, as the case may be, intends to  launch a Sounding Rocket 
+in the Identified Area.  
+3. The terms and conditions for issuing Authorisations shall be adhered to in accordance with 
+the provisions of this resolution.  
+4. The Authorisation Applicant shall obtain any other Approvals or Authorisat ions required from 
+other Government Entities to practice the activity, including obtaining a Authorisation to use the State airspace or airspace from the General Civil Aviation Authority, before launching.  
+5. The provisions stipulated in this resolution shall apply to the Authorisation issued under this 
+Article, including renewing or amending the Authorisation, suspending, cancelling or 
+transferring the Authorisation, foreign contracts and review procedures to the extent that is 
+commensurate with the natu re of sounding Rocket launching activities.  
+ 
+Article (11)  
+Authorisation for Space Activities  
+1. The Authorisations granted by the Agency to practice Space Activities or other activities 
+related to the Space Sector include each of the following categories:  
+a. Licence: It is granted to practice activities with the aim of providing commercial services and achieving financial returns.  
+b. Approval – Non -Commercial Licence: It is granted to Government Entities, academic or 
+research institutions to practice activities that do not aim to provide commercial services.  
+c. Permit: It is granted to carry out a specific activity without financial return to facilitate the implementation of the authorised activities for the person requesting Permit.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  13 
+ d. Experimental Licence:  It is granted to conduct an experiment or test of a specific space 
+technology or system without providing any services to achieve a financial return.  
+2. The Agency may issue a no -objection certificate to anyone who requests it to complete the 
+procedures f or obtaining any approvals or certificates from other parties.  
+3. The Agency may grant a Authorisation to the Applicant authorising him to carry out a specific 
+activity several times, provided that it is carried out in accordance with identical or similar 
+specifications and conditions, determined by the Agency.  
+4. The Agency may grant a Authorisation to Government Entities in the State that have multiple 
+Space Activities, without the need to obtain a special Authorisation for each activity within 
+the category, provided that the Agency notifies the Agency of each activity it carries out.  
+5. The Agency shall issue the Authorisations stipulated in this Article after the Applicant completes the Authorisation Application form and submits the required information and 
+documents, proof of his compliance with the Identified standards, and his acceptance of the 
+terms and conditions for that.  
+ 
+Article (12)  
+Authorisation Application  
+1. The Authorisation Application shall be submitted in accordance with the form prepared by 
+the Agency, taking into account the conditions stipulated in this resolution or any other 
+conditions set by the Agency in this regard.  
+2. The Authorisation Application form includes the following basic information:  
+a. General information about the Applicant.  
+b. Financial information of the Applicant.  
+c. The Applicant approved and authorised contacts.  
+d. Details of the activity required to be authorised.  
+e. Any other party involved in implementing the activity for which Authorisation is required.  
+f. A risk management plan related to the activity for which Authorisation is required.  
+g. Authorisations and Approvals required from other parties.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  14 
+ 3. The Applicant shall acknowledge the accuracy of the information provided.  
+4. The Agency shall respect the conf identiality of the information provided by the Applicant in 
+the Application. The Agency shall not share it with any person who is not involved in the 
+Authorisation procedures without the prior approval of the Applicant.  
+ 
+Article (13)  
+Mechanism for granting  Authorisations  
+1. The Agency shall review and evaluate the submitted Authorisation Application within five (5) 
+working days after all Authorisation requirements have been met. After completing its 
+evaluation, the Agency may also take the following:  
+a. App roval to grant the Authorisation, indicating its scope, duration, and the consequences 
+of its termination.  
+b. inform the Applicant of the necessity of fulfilling any additional requirements, approvals, 
+information or documents to issue the Authorisation within a period Identified in the 
+notification.  
+c. Refusal to grant Authorisation.  
+2. The Applicant shall fulfil the Authorisation requirements Identified by the Agency, including submitting approvals, information, and additional documents within the period Identified by 
+the Agency. If the Applicant does not comply with submitting them within the Identified period, the Application is considered cancelled, and a new Application shall be submitted 
+unless the Agency decides to accept the reasons. Delay.  
+3. If th e Agency refuses to issue the Authorisation or if it decides to amend the conditions of any 
+valid Authorisation, its resolution shall be reasoned and communicated to the Applicant.  
+4. The expiration of the period referred to in Clause (1) of this Article w ithout issuing the 
+Authorisation or requesting the completion of any additional information or documents from 
+the Applicant shall be considered a rejection of the Application.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  15 
+ 5. The Authorisation Applicant shall not submit any false, misleading or incomplete data or 
+documents to the Agency in relation to the Authorisation Application subject to the provisions 
+of this resolution.  
+6. The Authorisation issued by the Agency includes the following:  
+a. Information of the Applicant or Authorised Entity.  
+b. The category and nature of the Authorisation.  
+c. The scope and duration of the Authorisation.  
+d. Terms and Conditions.  
+7. The Authorised Party shall inform the Agency of any developments or changes that may occur 
+after granting the Authorisation and related to  the terms and conditions, the authorised 
+activities, or the conditions from which he is exempted for the purposes of obtaining the Authorisation.  
+8. The Agency may conduct periodic audits to ensure the extent of those authorised to comply 
+with the terms a nd conditions of the Authorisations granted to them.  
+9. The Agency may review its resolutions regarding granting, amending, transferring or 
+cancelling Authorisations, including exemption from the conditions for granting 
+Authorisations, and taking appropriate action.  
+10. Obtaining the Authorisation, in accordance with the provisions of this resolution, does not 
+exempt the Operator (or the Authorisation Applicant, as the case may be) from obtaining any 
+Authorisations, Licences or Approvals required by any other Government Agency to enable 
+them to carry out Space Activities in accordance with applicable legislation.  
+ 
+Article (14)  
+Companies Incorporation  
+Any person wishing to incorporate a company or any company wishing to incorporate a headquarters in the State  to practice Space Activities or other activities related to the Space Sector 
+shall obtain a prior No -Objection Certificate from the Agency, provided that the final Licence is Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  16 
+ issued by the local economic departments or the free zones administration or oth er concerned 
+parties.  
+ 
+Article (15)  
+Authorisation to Provide Satellite Communication  
+Any person wishing to provide satellite communications activities shall obtain a prior No -
+Objection Certificate from the Agency, provided that the final Authorisation is issued by the 
+General Authority for Regulating the Telecommunications and Digital Government Regulatory Authority in the State.  
+ 
+Article (16)  
+Authorisation Renewal  
+1. If the Authorisation period expires, the Agency may renew it for another period, based on a 
+request submitted by the Authorised Party before the expiration of the Authorisation, and in 
+accordance with the terms of the Authorisation and the form prepared by the Agency.  
+2. The Agency shall issue its resolution to renew the Authorisation within a period not exceeding (30) thirty working days from the date of submitting the Application after completing all 
+requirements and information.  
+ 
+Article (17)  
+Authorisation Amendment  
+1. The Agency may amend the Authorisation in any of the following two cases:  
+a. Based on the desire of the Authorised Party and in accordance with article (5) of this resolution.  
+b. Based on the approval of the Authorised Party, and for the purposes of complying with 
+any new conditions or requirements imposed by the Agency pursuant  to any resolution 
+issued by it.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  17 
+ 2. The Agency shall issue its resolution to amend the Authorisation, after taking into account the 
+minimum necessary to ensure the Authorised Party continued compliance with the terms and 
+conditions of the Authorisation.  
+3. The Authorised Party shall bear any costs that may result from amending the conditions or 
+requirements for amending the Authorisation under this Article.  
+ 
+Article (18)  
+Authorisation Assignment  
+1. The Authorised Party may waive the Authorisation after obtaining written approval from the Agency.  
+2. When issuing approval to assign the Authorisation, the Agency shall take into consideration that the assignee fulfils the terms and conditions of the Authorisation in accordance with the provisions of this resolut ion, and any other procedures required for assignment to persons 
+outside the State, including ensuring continuity of compensation coverage for any liability that the State may incur against others.  
+3. The Agency shall issue its approval for the assignment after paying any prescribed fees.  
+4. The Authorisation Assignment shall not exonerate any Operator from any obligation or 
+liability established prior to the date of the assignment.  
+5. Without prejudice to the criminal liability, it is forbidden to assign t he Authorisation 
+Assignment except with the approval of the Agency. The liability shall be joint between the 
+Assignee and the Assignor in case of violation thereof.  
+ 
+Article (19)  
+Exemption from the Conditions  
+1. By resolution of the Chairman of the Board of Directors, a temporary committee may be 
+formed to exempt the Operator from any conditions or controls related to the Authorisation 
+if the activities required for Authorisation are of great importance that contribute to the Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  18 
+ qualitative development of Spa ce Activities within the State or bring noticeable economic or 
+social benefits to the State.  
+2. If the Operator is exempted from any of the terms and conditions necessary to obtain 
+Authorisation in accordance with the provisions of this resolution, the Ope rator shall fulfil the 
+following:  
+a. Obtain any required approvals from any other Government Agency before issuing the 
+Authorisation.  
+b. Provide a guarantee of compensation that is explicitly approved by the Agency.  
+ 
+Article (20)  
+Suspending or cancelling the Authorisation  
+The Agency may suspend or cancel the Authorisation in case of the Authorised Party violates the terms and conditions of the Authorisation contained in the law, this resolution, or other 
+regulations applicable to the Agency, in accordance with the resolution of the Cabinet regulating 
+violations and administrative penalties resulting from violating the legislation regulating Space 
+Activities.  
+ 
+Article (21)  
+Measures of Security and Safety  
+1. The relevant Government Entities, in coordination wit h the Agency, may order the suspension 
+of Space Activities or activities related to the Space Sector, or take the necessary and possible 
+measures, if they deem it appropriate, including the operation and control of the space object, 
+aircraft, or other vehicles supporting space, in the event that Any threat to national security, 
+or the presence of serious risks to health or public safety, and intervention under this clause 
+is without prejudice to any fines or penalties imposed on the Authorised Party who vio lates 
+the provisions of the Authorisation or this resolution.  
+2. The Agency may request the Operator, in case of national emergencies and crises, to implement certain activities related to the nature of his work that support the management Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  19 
+ of these emergen cies and crises, in accordance with the available capabilities and cooperation 
+agreements between the Agency and the Authorised Party.  
+ 
+Article (22)  
+Appeal against Agency Resolutions  
+1. The Authorisation Applicant or Authorised Party may file appeal agains t any Resolution 
+issued by the Agency in accordance with the provisions of this resolution, within (30) thirty 
+days from the date of his notification of the resolution.  
+2. The Appeal shall be submitted to the Chairman of the Board of Directors, provided th at it is in 
+writing and accompanied by supporting documents.  
+3. The Appeal shall be decided within (90) ninety days as of the date of its submission by a 
+grounded resolution issued by the Board of Directors. The lapse of the aforementioned period 
+without any response to the Appeal shall be considered a rejection thereof.  
+4. The resolution issued on the Appeal shall be final.  
+ 
+Article (23)  
+Geospatial data 
+Coordination regarding geospatial data resulting from other activities related to the Space Sector 
+and me ntioned in Clause (3B) of article (3) of this resolution shall be made with the Federal 
+Centre for Geographic Information.  
+ 
+Article (24)  
+Reconciliation  
+1. Anyone who practices Space Activities or other activities related to the Space Sector shall, 
+before i mplementing the provisions of this resolution, reconcile in accordance with the 
+provisions of this resolution within (6) six months from the date of its implementation.  
+2. The Board of Directors may extend the reconciliation period for another period, prov ided that 
+it does not exceed two years from the effective date of the provisions of this resolution.  Cabinet Resolution No. (18) of 2023 , Regulations on the Authorisations of Space Activities and other Activities 
+Related to the Space Sector  20 
+  
+Article (25)  
+Executive Resolutions  
+The Board of Directors shall issue the necessary Resolutions for implementation of the provisions 
+of this Resolution.  
+ 
+Article (26)  
+Publication and Entry into Force  
+This Resolution shall be published in the Official Gazette and shall be enforced after (90) ninety days as of the date of its publication.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Mohammed bin Rashid Al Maktoum  
+Prime Minister  
+  
+Issued by Us:  
+Dated: Mar ch 13, 2023  
+Corresponding to: 21/Shaaban/1444 H  
